@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tutorial",
+			"Path": "D:\\Game\\Introtogame\\GameStuffForAlfred\\interation4\\Intro\\Tutorial\\Source\\Tutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TutorialEditor",
+			"Path": "D:\\Game\\Introtogame\\GameStuffForAlfred\\interation4\\Intro\\Tutorial\\Source\\TutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
